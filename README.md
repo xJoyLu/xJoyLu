@@ -1,13 +1,8 @@
 
-
 <h1 align="center">Hi 👋,I'm Joy.Lu 「卢东东」</h1>
-<h3 align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Lazy+world+leader)</h3>
+<h3 align="center">Lazy world leader</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xjoylu&label=Profile%20views&color=0e75b6&style=flat" alt="xjoylu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xjoylu" alt="xjoylu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/xjoylu" target="blank"><img src="https://img.shields.io/twitter/follow/xjoylu?logo=twitter&style=for-the-badge" alt="xjoylu" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9F%9B%B5%E5%BC%80%E6%91%A9%E6%89%98%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D;%F0%9F%8E%B9%E5%BC%B9%E9%B8%A1%E6%AF%9B%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D;%F0%9F%93%B8%E6%8B%8D%E7%85%A7%E7%89%87%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D;%F0%9F%8E%AE%E6%89%93%E6%B8%B8%E6%88%8F%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D;%E2%9C%8D%E5%86%99%E6%96%87%E5%AD%97%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [Perfect Widget](https://apps.apple.com/cn/app/perfect-widget-%E4%B8%93%E5%B1%9E%E5%AE%8C%E7%BE%8E%E5%B0%8F%E7%BB%84%E4%BB%B6%E4%B8%BB%E9%A2%98%E5%85%85%E7%94%B5%E5%8A%A8%E6%80%81/id1619262787)
 
