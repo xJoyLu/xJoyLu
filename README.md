@@ -32,16 +32,7 @@ I'm a self-taught lonely Product Manager from China 🇮🇳
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xjoylu&" alt="xjoylu" /></p>
 
-
-
-
 ---
-
-
-
-
-
-
 
 ## 👨‍💻 About me
 
