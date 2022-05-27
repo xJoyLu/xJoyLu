@@ -22,37 +22,21 @@ I'm a self-taught lonely Product Manager from China 🇮🇳
 
 - 💬 Ask me about **https://github.com/xJoyLu/xJoyLu/issues**
 
-- 📫 How to reach me **xjoylu@gmail.com**
+- 📧 How to reach me **xjoylu@gmail.com**
 
 - 📄 Know about my experiences **[Blog](https://ldd.cc)**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xjoylu&show_icons=true&locale=en&layout=compact" alt="xjoylu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xjoylu&show_icons=true&locale=en" alt="xjoylu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xjoylu&" alt="xjoylu" /></p>
-
----
-
-## 👨‍💻 About me
-
-- 💬 Ask me about anything **[here](https://github.com/xJoyLu/xJoyLu/issues)**
-- 📧 Business cooperation or job opportunity contact email：**xjoylu@gmail.com**
-- 😷 Led a team of ten people to participate in large-scale national testing projects in the Greater Bay Area, and successfully completed the task
 
 ## 🧰 My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=md,html,css,js,php,mysql,py,qt,bootstrap,vue,figma,ai,ae,ps,swift,aws,gcp,codepen,discord,stackoverflow,raspberrypi,instagram,twitter,linkedin,docker,bots,electron,github,wordpress,cloudflare&theme=light)](https://skillicons.dev)
 
-|![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xJoyLu&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xJoyLu&show_icons=true&theme=radical)|
-| ------------- | ------------- |
+|<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xjoylu&show_icons=true&locale=en" alt="xjoylu" /></p>|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xjoylu&" alt="xjoylu" /></p>|
+|---|---|
 
 
-
-![](https://img.shields.io/badge/day%20📅-7-blue)	
 ![Profile views](https://gpvc.arturio.dev/xJoyLu)
 
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/xJoyLu">
   <img align="right" alt="xJoyLu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
