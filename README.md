@@ -4,28 +4,21 @@ Centralized platforms are generally used: **[xJoyLu](https://xjoylu.com)**,Decen
 
 I'm a self-taught lonely Product Manager from China 🇮🇳
 
-**👨‍💻 About me**
+## 👨‍💻 About me
 
 - 💬 Ask me about anything **[here](https://github.com/xJoyLu/xJoyLu/issues)**
 - 📧 Business cooperation or job opportunity contact email：**xjoylu@gmail.com**
+- 😷 Led a team of ten people to participate in large-scale national testing projects in the Greater Bay Area, and successfully completed the task
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+## 🧰 My Skills
 
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=md,html,css,js,php,mysql,py,qt,bootstrap,vue,figma,ai,ae,ps,swift,aws,gcp,codepen,discord,stackoverflow,raspberrypi,instagram,twitter,linkedin,docker,bots,electron,github,wordpress,cloudflare&theme=light)](https://skillicons.dev)
 
 <br />
 <br />
 
-<code>![Profile views](https://gpvc.arturio.dev/xJoyLu)<code>
+![](https://img.shields.io/badge/day%20📅-7-blue)	
+![Profile views](https://gpvc.arturio.dev/xJoyLu)
 
 <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="xJoyLu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
