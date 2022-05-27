@@ -14,9 +14,9 @@ I'm a self-taught lonely Product Manager from China 🇮🇳
 
 [![My Skills](https://skillicons.dev/icons?i=md,html,css,js,php,mysql,py,qt,bootstrap,vue,figma,ai,ae,ps,swift,aws,gcp,codepen,discord,stackoverflow,raspberrypi,instagram,twitter,linkedin,docker,bots,electron,github,wordpress,cloudflare&theme=light)](https://skillicons.dev)
 
-<br />
-<br />
----
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xJoyLu&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xJoyLu&show_icons=true&theme=radical)
+
 ![](https://img.shields.io/badge/day%20📅-7-blue)	
 ![Profile views](https://gpvc.arturio.dev/xJoyLu)
 
