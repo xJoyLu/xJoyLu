@@ -16,7 +16,7 @@ I'm a self-taught lonely Product Manager from China 🇮🇳
 
 <br />
 <br />
-
+---
 ![](https://img.shields.io/badge/day%20📅-7-blue)	
 ![Profile views](https://gpvc.arturio.dev/xJoyLu)
 
