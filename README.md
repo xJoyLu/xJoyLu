@@ -1,9 +1,7 @@
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
-
-<h1 align="center">Hi 👋, I'm Joy.Lu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋,I'm Joy.Lu 「卢东东」</h1>
+<h3 align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Lazy+world+leader)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xjoylu&label=Profile%20views&color=0e75b6&style=flat" alt="xjoylu" /> </p>
 
@@ -53,9 +51,9 @@
 
 ---
 
-Hi 👋,I'm Joy.Lu 「卢东东」
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Lazy+world+leader)
+
+
 
 Centralized platforms are generally used: **[xJoyLu](https://xjoylu.com)**,Decentralized platforms use: **[LordDD](https://lorddd.com)**
 
