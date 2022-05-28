@@ -1,3 +1,15 @@
+<p align="center">
+    <a>
+	      <img src="https://gpvc.arturio.dev/xJoyLu" alt="Profile views">
+	  </a>
+    <a href="https://twitter.com/xjoylu">
+        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/xjoylu?style=social">
+    </a>
+     <a href="https://www.youtube.com/channel/UCWVEqVG_4mtpN19axLVzaQA">
+        <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCWVEqVG_4mtpN19axLVzaQA">
+     </a>
+</p>
+
 <img align="right" width="200" height="200" alt="xJoyLu" src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/logo.png?raw=true"/>
 
 <h1 align="center">Hi <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/Hi.gif?raw=true" width="30px"> , I'm Joy.Lu 「卢东东」</h1>
@@ -35,6 +47,6 @@ I'm a self-taught lonely Product Manager from China 🇮🇳
 |<p><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xJoyLu"></p>|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xjoylu&" alt="xjoylu" /></p>|
 |---|---|
 
-![Profile views](https://gpvc.arturio.dev/xJoyLu) • ❤️ ***love is the best teacher for everything. It is far better than responsibility.***
+ <a>❤️ ***love is the best teacher for everything. It is far better than responsibility.***</a>
 
 <h3 align="center"><img align="center" width="600" src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/github.png?raw=true"></h3>
