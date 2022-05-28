@@ -22,7 +22,6 @@ I'm a self-taught lonely Product Manager from China 🇮🇳
 - 📄 Know about my experiences **[Blog](https://ldd.cc)**
 <details>
 <summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xJoyLu">
 <img src="https://github-profile-trophy.vercel.app/?username=xJoyLu">
 </details>
 
@@ -30,12 +29,12 @@ I'm a self-taught lonely Product Manager from China 🇮🇳
 
 [![My Skills](https://skillicons.dev/icons?i=md,html,css,js,php,mysql,py,qt,bootstrap,vue,figma,ai,ae,ps,swift,aws,gcp,codepen,discord,stackoverflow,raspberrypi,instagram,twitter,linkedin,docker,bots,electron,github,wordpress,cloudflare&theme=light)](https://skillicons.dev)
 
-|<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xjoylu&show_icons=true&locale=en" alt="xjoylu" /></p>|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xjoylu&" alt="xjoylu" /></p>|
+|[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=xJoyLu)](https://twitter.com/xjoylu)|<img width="480" src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/code.gif?raw=true">|
 |---|---|
 
-|[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=xJoyLu)](https://twitter.com/xjoylu)|<img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/code.gif?raw=true">|
+|<p><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xJoyLu"></p>|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xjoylu&" alt="xjoylu" /></p>|
 |---|---|
-
-<h3 align="center"><img align="center" width="600" src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/github.png?raw=true"></h3>
 
 ![Profile views](https://gpvc.arturio.dev/xJoyLu) • ❤️ ***love is the best teacher for everything. It is far better than responsibility.***
+
+<h3 align="center"><img align="center" width="600" src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/github.png?raw=true"></h3>
