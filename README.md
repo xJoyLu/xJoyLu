@@ -1,7 +1,7 @@
 <p align="center">
     <a>
-	      <img src="https://gpvc.arturio.dev/xJoyLu" alt="Profile views">
-	  </a>
+	<img src="https://gpvc.arturio.dev/xJoyLu" alt="Profile views">
+    </a>
     <a href="https://twitter.com/xjoylu">
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/xjoylu?style=social">
     </a>
@@ -23,15 +23,15 @@ I'm a self-taught lonely Product Manager from China 🇮🇳
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on **[Perfect Widget](https://apps.apple.com/cn/app/perfect-widget-%E4%B8%93%E5%B1%9E%E5%AE%8C%E7%BE%8E%E5%B0%8F%E7%BB%84%E4%BB%B6%E4%B8%BB%E9%A2%98%E5%85%85%E7%94%B5%E5%8A%A8%E6%80%81/id1619262787)**
-- 🌱 I’m currently learning **Web3**
+- 🔭 I’m currently working on **[Perfect Widget](https://apps.apple.com/cn/app/perfect-widget-%E4%B8%93%E5%B1%9E%E5%AE%8C%E7%BE%8E%E5%B0%8F%E7%BB%84%E4%BB%B6%E4%B8%BB%E9%A2%98%E5%85%85%E7%94%B5%E5%8A%A8%E6%80%81/id1619262787)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/pilipala.gif?raw=true" width="30px">
+- 🌱 I’m currently learning **Web3** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/hmm.gif?raw=true" width="30px">
 - 👯 I’m looking to collaborate on **[VC.BI](https://vc.bi)**
 - 🤝 I’m looking for help with **[YLUI](https://github.com/xJoyLu/ylui)**
-- 👨‍💻 All of my projects are available at **[Si·Lu](https://si.lu)**
-- 📝 I regularly write articles on **[xJoyLu](https://xjoylu.com)**
-- 💬 Ask me about **[issues](https://github.com/xJoyLu/xJoyLu/issues)**
+- 👨‍💻 All of my projects are available at **[Si·Lu](https://si.lu)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/Developer.gif?raw=true" width="30px">
+- 📝 I regularly write articles on **[xJoyLu](https://xjoylu.com)** 
+- 💬 Ask me about **[issues](https://github.com/xJoyLu/xJoyLu/issues)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/pc.gif?raw=true" width="30px">
 - 💌 How to reach me **xjoylu@gmail.com**
-- 📄 Know about my experiences **[Blog](https://ldd.cc)**
+- 📄 Know about my experiences **[Blog](https://ldd.cc)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/bink.gif?raw=true" width="30px">
 <details>
 <summary>:trophy: Github Stats</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=xJoyLu">
