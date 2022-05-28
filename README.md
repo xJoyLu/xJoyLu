@@ -18,7 +18,7 @@ I'm a self-taught lonely Product Manager from China 🇮🇳
 - 👨‍💻 All of my projects are available at **[Si·Lu](https://si.lu)**
 - 📝 I regularly write articles on **[xJoyLu](https://xjoylu.com)**
 - 💬 Ask me about **[issues](https://github.com/xJoyLu/xJoyLu/issues)**
-- 📧 How to reach me **xjoylu@gmail.com**
+- 💌 How to reach me **xjoylu@gmail.com**
 - 📄 Know about my experiences **[Blog](https://ldd.cc)**
 <details>
 <summary>:trophy: Github Stats</summary>
@@ -38,4 +38,4 @@ I'm a self-taught lonely Product Manager from China 🇮🇳
 
 <h3 align="center"><img align="center" width="600" src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/github.png?raw=true"></h3>
 
-![Profile views](https://gpvc.arturio.dev/xJoyLu) •
+![Profile views](https://gpvc.arturio.dev/xJoyLu) • ❤️ ***love is the best teacher for everything. It is far better than responsibility.***
