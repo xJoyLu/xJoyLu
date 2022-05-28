@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋,I'm Joy.Lu 「卢东东」</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">,I'm Joy.Lu 「卢东东」</h1>
 <h3 align="center">Lazy world leader</h3>
 
 Centralized platforms are generally used: **[xJoyLu](https://xjoylu.com)**,Decentralized platforms use: **[LordDD](https://lorddd.com)**
@@ -12,13 +12,13 @@ I'm a self-taught lonely Product Manager from China 🇮🇳
 
 - 🌱 I’m currently learning **Web3**
 
-- 👯 I’m looking to collaborate on [VC.BI](https://vc.bi)
+- 👯 I’m looking to collaborate on **[VC.BI](https://vc.bi)**
 
-- 🤝 I’m looking for help with [YLUI](https://github.com/xJoyLu/ylui)
+- 🤝 I’m looking for help with **[YLUI](https://github.com/xJoyLu/ylui)**
 
-- 👨‍💻 All of my projects are available at [Si·Lu](https://si.lu)
+- 👨‍💻 All of my projects are available at **[Si·Lu](https://si.lu)**
 
-- 📝 I regularly write articles on [https://xjoylu.com](https://xjoylu.com)
+- 📝 I regularly write articles on **[https://xjoylu.com](https://xjoylu.com)**
 
 - 💬 Ask me about **https://github.com/xJoyLu/xJoyLu/issues**
 
@@ -34,10 +34,6 @@ I'm a self-taught lonely Product Manager from China 🇮🇳
 |---|---|
 
 
-![Profile views](https://gpvc.arturio.dev/xJoyLu)
-
-<a href="https://twitter.com/xJoyLu">
-  <img align="right" alt="xJoyLu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+![Profile views](https://gpvc.arturio.dev/xJoyLu) •
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=xJoyLu)](https://twitter.com/xjoylu)
