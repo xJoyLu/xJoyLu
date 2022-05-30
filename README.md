@@ -12,7 +12,7 @@
 
 <img align="right" width="200" height="200" alt="xJoyLu" src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/logo.png?raw=true"/>
 
-<h1 align="center">Hi <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/Hi.gif?raw=true" width="30px"> , I'm Joy.Lu 「卢东东」</h1>
+<h1 align="center">Hi <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/Hi.gif?raw=true" width="30px"> , I'm Joy.Lu「卢东东」</h1>
 <h3 align="center">Lazy world leader</h3>
 
 Centralized platforms are generally used: **[xJoyLu](https://xjoylu.com)**,Decentralized platforms use: **[LordDD](https://lorddd.com)**
