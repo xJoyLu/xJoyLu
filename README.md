@@ -12,7 +12,7 @@
 
 <img align="right" width="200" height="200" alt="xJoyLu" src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/logo.png?raw=true"/>
 
-<h1 align="center">Hi <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/Hi.gif?raw=true" width="30px"> , I'm Joy.Lu「卢东东」</h1>
+<h1 align="center">Hi <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/Hi.gif?raw=true" width="30"> , I'm Joy.Lu「卢东东」</h1>
 <h3 align="center">Lazy world leader</h3>
 
 Centralized platforms are generally used: **[xJoyLu](https://xjoylu.com)**,Decentralized platforms use: **[LordDD](https://lorddd.com)**
@@ -23,15 +23,15 @@ I'm a self-taught lonely Product Manager from China 🇮🇳
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on **[Perfect Widget](https://apps.apple.com/cn/app/perfect-widget-%E4%B8%93%E5%B1%9E%E5%AE%8C%E7%BE%8E%E5%B0%8F%E7%BB%84%E4%BB%B6%E4%B8%BB%E9%A2%98%E5%85%85%E7%94%B5%E5%8A%A8%E6%80%81/id1619262787)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/pilipala.gif?raw=true" width="30px">
-- 🌱 I’m currently learning **Web3** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/hmm.gif?raw=true" width="30px">
+- 🔭 I’m currently working on **[Perfect Widget](https://apps.apple.com/cn/app/perfect-widget-%E4%B8%93%E5%B1%9E%E5%AE%8C%E7%BE%8E%E5%B0%8F%E7%BB%84%E4%BB%B6%E4%B8%BB%E9%A2%98%E5%85%85%E7%94%B5%E5%8A%A8%E6%80%81/id1619262787)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/pilipala.gif?raw=true" width="30">
+- 🌱 I’m currently learning **Web3** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/hmm.gif?raw=true" width="30">
 - 👯 I’m looking to collaborate on **[VC.BI](https://vc.bi)**
 - 🤝 I’m looking for help with **[YLUI](https://github.com/xJoyLu/ylui)**
-- 👨‍💻 All of my projects are available at **[Si·Lu](https://si.lu)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/Developer.gif?raw=true" width="30px">
+- 👨‍💻 All of my projects are available at **[Si·Lu](https://si.lu)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/Developer.gif?raw=true" width="30">
 - 📝 I regularly write articles on **[xJoyLu](https://xjoylu.com)** 
-- 💬 Ask me about **[issues](https://github.com/xJoyLu/xJoyLu/issues)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/pc.gif?raw=true" width="30px">
+- 💬 Ask me about **[issues](https://github.com/xJoyLu/xJoyLu/issues)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/pc.gif?raw=true" width="30">
 - 💌 How to reach me **xjoylu@gmail.com**
-- 📄 Know about my experiences **[Blog](https://ldd.cc)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/bink.gif?raw=true" width="30px">
+- 📄 Know about my experiences **[Blog](https://ldd.cc)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/bink.gif?raw=true" width="30">
 <details>
 <summary>:trophy: Github Stats</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=xJoyLu">
