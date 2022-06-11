@@ -17,7 +17,7 @@
 
 Centralized platforms are generally used: **[xJoyLu](https://xjoylu.com)**,Decentralized platforms use: **[LordDD](https://lorddd.com)**
 
-I'm a self-taught lonely Product Manager from China 🇮🇳
+I'm a self-taught lonely Product Manager from China 🇨🇳
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9F%9B%B5%E5%BC%80%E6%91%A9%E6%89%98%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D;%F0%9F%8E%B9%E5%BC%B9%E9%B8%A1%E6%AF%9B%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D;%F0%9F%93%B8%E6%8B%8D%E7%85%A7%E7%89%87%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D;%F0%9F%8E%AE%E6%89%93%E6%B8%B8%E6%88%8F%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D;%E2%9C%8D%E5%86%99%E6%96%87%E5%AD%97%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D)](https://git.io/typing-svg)
 
