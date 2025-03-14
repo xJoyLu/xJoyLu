@@ -1,7 +1,4 @@
 <p align="center">
-    <a>
-	<img src="https://gpvc.arturio.dev/xJoyLu" alt="Profile views">
-    </a>
     <a href="https://twitter.com/xjoylu">
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/xjoylu?style=social">
     </a>
