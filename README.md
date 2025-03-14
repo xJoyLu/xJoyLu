@@ -41,11 +41,7 @@ I'm a self-taught lonely Product Manager from China 🇨🇳
 
 [![My Skills](https://skillicons.dev/icons?i=md,html,css,js,php,mysql,py,qt,bootstrap,vue,figma,ai,ae,ps,swift,aws,gcp,codepen,discord,stackoverflow,raspberrypi,instagram,twitter,linkedin,docker,bots,electron,github,wordpress,cloudflare&theme=light)](https://skillicons.dev)
 
-|[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=xJoyLu)](https://twitter.com/xjoylu)|<img width="480" src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/code.gif?raw=true">|
-|---|---|
-
-|<p><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xJoyLu"></p>|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xjoylu&" alt="xjoylu" /></p>|
-|---|---|
+<p><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xJoyLu"></p>
 
  <a>❤️ ***love is the best teacher for everything. It is far better than responsibility.***</a>
 
