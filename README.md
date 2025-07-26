@@ -33,7 +33,7 @@
 ---
 ## 🧰 技术栈
 
-[![My Skills](https://skillicons.dev/icons?i=md,html,css,js,php,mysql,py,qt,bootstrap,vue,figma,ai,ae,ps,swift,aws,gcp,codepen,discord,stackoverflow,raspberrypi,instagram,twitter,linkedin,docker,bots,electron,github,wordpress,cloudflare&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,md,github,cloudflare,actions&theme=light)](https://skillicons.dev)
 
 ---
 
