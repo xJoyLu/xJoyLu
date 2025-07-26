@@ -10,25 +10,11 @@
 <img align="right" width="200" height="200" alt="xJoyLu" src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/logo.png?raw=true"/>
 
 <h1 align="center">Hi <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/Hi.gif?raw=true" width="30"> , I'm Joy.Lu「卢东东」</h1>
-<h3 align="center">Lazy world leader</h3>
+<h3 align="center">偷懒界翘楚</h3>
 
-Centralized platforms are generally used: `xJoyLu`,Decentralized platforms use: `LordDD`
+热爱构建、喜欢折腾、保持好奇。<br>
+目前在做一些关于 Web、静态站、开源组件 和 创意产品 的探索。
 
-I'm a self-taught lonely Product Manager from China 🇨🇳
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9F%9B%B5%E5%BC%80%E6%91%A9%E6%89%98%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D;%F0%9F%8E%B9%E5%BC%B9%E9%B8%A1%E6%AF%9B%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D;%F0%9F%93%B8%E6%8B%8D%E7%85%A7%E7%89%87%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D;%F0%9F%8E%AE%E6%89%93%E6%B8%B8%E6%88%8F%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D;%E2%9C%8D%E5%86%99%E6%96%87%E5%AD%97%E7%9A%84%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82%E6%B5%81%E6%B5%AA%E6%B1%89%E3%80%8D)](https://git.io/typing-svg)
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 I’m currently working on **[Perfect Widget](https://apps.apple.com/cn/app/perfect-widget-%E4%B8%93%E5%B1%9E%E5%AE%8C%E7%BE%8E%E5%B0%8F%E7%BB%84%E4%BB%B6%E4%B8%BB%E9%A2%98%E5%85%85%E7%94%B5%E5%8A%A8%E6%80%81/id1619262787)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/pilipala.gif?raw=true" width="30">
-- 🌱 I’m currently learning **Web3** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/hmm.gif?raw=true" width="30">
-- 👯 I’m looking to collaborate on **[VC.BI](https://vc.bi)**
-- 🤝 I’m looking for help with **[YLUI](https://github.com/xJoyLu/ylui)**
-- 👨‍💻 All of my projects are available at **[Si·Lu](https://si.lu)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/Developer.gif?raw=true" width="30">
-- 📝 I regularly write articles on **[xJoyLu](https://xjoylu.com)** 
-- 💬 Ask me about **[issues](https://github.com/xJoyLu/xJoyLu/issues)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/pc.gif?raw=true" width="30">
-- 💌 How to reach me **xjoylu@gmail.com**
-- 📄 Know about my experiences **[Blog](https://ldd.cc)** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/bink.gif?raw=true" width="30">
 <details>
 <summary>:trophy: Github Stats</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=xJoyLu">
@@ -43,3 +29,47 @@ I'm a self-taught lonely Product Manager from China 🇨🇳
  <a>❤️ ***love is the best teacher for everything. It is far better than responsibility.***</a>
 
 <h3 align="center"><img align="center" width="600" src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/github.png?raw=true"></h3>
+
+# 👋 Hello, I'm Dongdong
+
+热爱构建、喜欢折腾、保持好奇。  
+目前在做一些关于 Web、静态站、开源组件 和 创意产品 的探索。
+
+---
+
+## 🚀 近期关注
+
+- 🌐 前端静态站框架：Astro / VitePress / Next.js
+- 📊 云服务监控可视化
+- 🧱 面向创作者的工具与模板
+- ⛓️ 内容自动化、GitHub Actions、API 构建流
+
+---
+
+## 🧰 技术关键词
+
+`JavaScript` · `TypeScript` · `Node.js` · `Astro` · `Markdown`  
+`GitHub Pages` · `Cloudflare` · `Open Source` · `自动化脚本`
+
+---
+
+## 📌 项目一览
+
+| 项目名 | 简介 | 地址 |
+|--------|------|------|
+| 🎞️ 海报墙 | 自建的电影/图书记录展示系统 | [echo.ldd.cc](https://echo.ldd.cc) |
+| 📡 监控看板 | 云服务状态实时查询页面 | [status.ldd.cc](https://status.ldd.cc) |
+| 🪵 思路 | 一个分享产品思路、项目记录的空间 | [si.lu](https://si.lu) |
+
+---
+
+## 📫 联系我
+
+- Blog: [ldd.cc](https://ldd.cc)
+- Twitter/X: [@xjoylu](https://x.com/xjoylu)
+- Email: `me@ldd.cc`
+
+---
+
+_💬 「一个能走多远，取决于他能想象到什么。」_
+
