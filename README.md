@@ -37,11 +37,11 @@
 
 ---
 
-## 📫 联系我
+## 🤝🏻 &nbsp;Connect with Me
 
 - Blog: [ldd.cc](https://ldd.cc)
-- X: [@xjoylu](https://x.com/xjoylu)
-- Email: `xjoylu@gmail.com`
+- Twitter/X: [@xjoylu](https://x.com/xjoylu)
+- <a href="mailto:xjoylu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-xjoylu@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 ---
 
