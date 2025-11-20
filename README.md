@@ -16,10 +16,8 @@
 
 <details>
 <summary>:trophy: Github Stats</summary>
-<img src="https://github-profile-trophy.vercel.app/?username=xJoyLu">
+    <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rongzhiy&count_private=true&show_icons=true"/>
 </details>
-
-<p><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xJoyLu"></p>
 
 ---
 
