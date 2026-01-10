@@ -2,9 +2,6 @@
     <a href="https://twitter.com/xjoylu">
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/xjoylu?style=social">
     </a>
-     <a href="https://www.youtube.com/channel/UCWVEqVG_4mtpN19axLVzaQA">
-        <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCWVEqVG_4mtpN19axLVzaQA">
-     </a>
 </p>
 
 <img align="right" width="200" height="200" alt="xJoyLu" src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/logo.png?raw=true"/>
