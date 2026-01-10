@@ -12,8 +12,9 @@
 
 ## 🤝🏻 &nbsp;Connect with Me
 
-- Blog: [ldd.cc](https://ldd.cc)
-- Twitter/X: [@xjoylu](https://x.com/xjoylu)
+`〼偷懒界翘楚`
+- Build in Public：[ldd.cc](https://ldd.cc)
+- 🧘思路の序章：[lcc.cc](https://lcc.cc)
 - <a href="mailto:xjoylu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-xjoylu@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 ---
